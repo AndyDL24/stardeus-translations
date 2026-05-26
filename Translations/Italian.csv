@@ -4699,12 +4699,12 @@ tut.basic.controls.step.dev.select,Selezione di oggetti,,
 tut.basic.controls.step.dev.manage.submenu,Controlli dei componenti,,
 tut.basic.controls.step.dev.manage.submenu.desc,"Ora stai esaminando i controlli del componente <b>Elettricità</b> del dispositivo selezionato. Se selezioni un altro dispositivo che ha lo stesso componente, il sottomenu rimarrà aperto. Ogni oggetto ha vari componenti che rivelano i propri dati e controlli in questo modo.",2023-08-16,
 tut.basic.controls.step.deselect,Deselezione di oggetti,,
-tut.basic.controls.step.deselect.desc,"Quando qualcosa è selezionato, usa <b>{0}</b> per deselezionarlo. Chiuderà anche eventuali overlay aperti o pannelli dell'interfaccia utente attivi. Provalo adesso.",2024-07-02,												  
+tut.basic.controls.step.deselect.desc,"Quando qualcosa è selezionato, usa <b>{0}</b> per deselezionarlo. Chiuderà anche eventuali overlay aperti o pannelli dell'interfaccia utente attivi. Provalo adesso.",2024-07-02,
 tut.basic.controls.step.context.menu.1,Richiamo del menu contestuale,,
-tut.basic.controls.step.context.menu.1.desc,"Quando il cursore si trova su un oggetto, <b>{0}</b> aprirà un <b>menu contestuale</b>. Provalo sul dispositivo evidenziato.",2023-08-16,																											 
+tut.basic.controls.step.context.menu.1.desc,"Quando il cursore si trova su un oggetto, <b>{0}</b> aprirà un <b>menu contestuale</b>. Provalo sul dispositivo evidenziato.",2023-08-16,
 tut.basic.controls.step.context.menu.2,Menù contestuale,,
 tut.basic.controls.step.context.menu.2.desc,Il <b>menu contestuale</b> contiene il sottoinsieme delle azioni più comuni del pannello informazioni.,2023-08-14,
-tut.basic.controls.step.context.menu.3.desc,Utilizza {0} per chiudere il menu contestuale.,2024-07-02,{0} is a key binding												 																																																		  
+tut.basic.controls.step.context.menu.3.desc,Utilizza {0} per chiudere il menu contestuale.,2024-07-02,{0} is a key binding
 tut.basic.controls.tools,Utensili,,
 tut.basic.controls.tools.desc,"Molte azioni nel gioco richiedono l'utilizzo di uno strumento e sono disponibili diversi strumenti a tua disposizione. Puoi accedervi in ​​vari modi, tra cui il <b>menu Strumenti</b>, la <b>barra di accesso rapido</b>, la <b>ricerca rapida</b> e i <b>tasti di scelta rapida</b>.<br><br>Premi <b>{0}</b> per aprire il <b>menu Strumenti</b>.",,
 tool.menu.type,Tipo di menu degli strumenti,,
@@ -4753,7 +4753,7 @@ tut.basic.controls.step.connect.5,"<b>Suggerimento:</b> in modalità Selezione l
 tut.connecting.teleporters,Connessione dei teletrasporti,,
 choice.or,{0} o {1},,{0} and {1} will be some arbitrary things like shortcut keys or two item names
 tut.basic.controls.step.repair.1,I sistemi segnalano una perdita di ossigeno. Usiamo la sovrapposizione visiva <b>{0}</b> per trovarlo.,,{0} is Oxygen translation
-tut.basic.controls.step.repair.2,Ecco la perdita. Puoi vedere l'ossigeno che scorre attraverso un <b>{0}< / b> danneggiato verso l'area adiacente che non dovrebbe avere ossigeno.,,{0} is a translation for Window structure
+tut.basic.controls.step.repair.2,Ecco la perdita. Puoi vedere l'ossigeno che scorre attraverso un <b>{0}</b> danneggiato verso l'area adiacente che non dovrebbe avere ossigeno.,,{0} is a translation for Window structure
 tut.basic.controls.step.repair.3,Utilizzare <b>{0}</b> per aprire il menu <b>Tool</b> e attivare lo strumento <b>{1}</b>. Creeremo quindi un paio di attività di riparazione.,2023-08-16,{0} is key binding {1} is tool name
 tut.basic.controls.step.repair.4,Premere {0} e trascinare un rettangolo attorno all'area danneggiata per ordinare le riparazioni.,2023-08-16,{0} is key binding
 tut.basic.controls.group.examining.objects,Esame degli oggetti,,
@@ -4767,7 +4767,7 @@ tut.basic.controls.relocate.4,"Il trasferimento è ora in sospeso.<br><br>Puoi s
 tut.basic.controls.quick.search.1,Usa <b>Ricerca rapida</b> quando sai cosa stai cercando. È il modo più veloce per trovare qualsiasi cosa.<br><br>Premere {0} per attivare <b>Ricerca rapida</b>.,2023-08-18,{0} is key binding
 tut.basic.controls.quick.search.2,"Ora inizia a digitare un nome di blueprint e premi {0} o fai clic sul risultato per attivarlo quando diventa disponibile.<br><br>Per questo esempio, supponiamo che tu voglia creare un <b>{1}</b>. Digitare ""{2}"", quindi premere {0}.",,{0} is key binding. {1} is device name. {2} will be first few characters of device name
 tut.basic.controls.quick.search.3,"Il <b>Quick Search</b> è estremamente potente. Oltre ai progetti, può trovare lavoratori, voci del codice e oggetti all'interno delle viste speciali come <b>Research Tree</b> o <b>Starmap</b>.",,
-tut.basic.controls.end,"Questo tutorial è ora completo. Se hai trovato le informazioni travolgenti, ricorda che puoi sempre rivisitare e saltare al passaggio desiderato, o semplicemente immergerti e imparare mentre giochi.<br><br>Consigliamo vivamente di esplorare il <b>Codex< / b>. Contiene risposte su come funzionano le cose.<br><br>Molte delle informazioni di questo tutorial, così come il <b>Codex</b>, sono incorporate direttamente nel gioco, spesso indicate con ""{0}"" nei tooltip. Usalo a tuo vantaggio.",2023-08-18,{0} is something like: hold CTRL for more info
+tut.basic.controls.end,"Questo tutorial è ora completo. Se hai trovato le informazioni travolgenti, ricorda che puoi sempre rivisitare e saltare al passaggio desiderato, o semplicemente immergerti e imparare mentre giochi.<br><br>Consigliamo vivamente di esplorare il <b>Codex</b>. Contiene risposte su come funzionano le cose.<br><br>Molte delle informazioni di questo tutorial, così come il <b>Codex</b>, sono incorporate direttamente nel gioco, spesso indicate con ""{0}"" nei tooltip. Usalo a tuo vantaggio.",2023-08-18,{0} is something like: hold CTRL for more info
 tut.research.name,Ricerca,,
 tut.research.desc,Impara i concetti della Ricerca.,,
 tool.menu.recent.desc,Contiene un elenco di blueprint utilizzati di recente.,,
@@ -4825,7 +4825,7 @@ tut.research.disk.1,"Mentre il <b>{0}</b> produce nuovi Datoidi, pianifichiamo l
 tut.research.disk.2,Vogliamo costruire un <b>{0}</b>. Troviamo il nodo di ricerca che sblocca questo progetto. Puoi aprire la ricerca con {1}.,,{0} is device name {1} is key binding
 tut.research.disk.2.gamepad,Vogliamo costruire un <b>{0}</b>. Troviamo il nodo di ricerca <b>{1}</b>. Puoi usare il pulsante <b>{2}</b> in alto a destra per farlo.,,{0} is device name {1} is key binding. {2} is translation for Search
 tut.research.disk.3,Inizia a digitare il nome di <b>{0}</b> nel campo di ricerca e premi {1} o fai clic sul risultato quando diventa disponibile.,,{0} is device name. {1} is key binding
-tut.research.disk.4,Scopriamo di cosa abbiamo bisogno per sbloccare <b>{0}< / b>. Passa il mouse sul pulsante <b>{1}</b>.,,{0} is device name. {1} is button label
+tut.research.disk.4,Scopriamo di cosa abbiamo bisogno per sbloccare <b>{0}</b>. Passa il mouse sul pulsante <b>{1}</b>.,,{0} is device name. {1} is button label
 tut.research.disk.5,"Una volta che produciamo abbastanza <b>Basic Datoids</b>, non saremo ancora in grado di sbloccarlo perché non abbiamo il <b>Spazio su disco</b> necessario per memorizzare il risultato della ricerca.<br><br>Dovremo costruire un modulo <b>Disk Module</b>.<br><br>Use {0} o {1} per chiudere il <b> Albero di ricerca</b>.",,{0} and {1} are key bindings
 tut.research.disk.3.hint,Suggerimento: il risultato della ricerca dovrebbe essere <b>{0}</b>.,,{0} is a tech name
 tut.research.outro,"Ora abbiamo abbastanza <b>Spazio su disco</b> per sbloccare <b>{0}</b>, ma dobbiamo ancora aspettare che <b>Basic Datoids</b> venga prodotto.<br><br>Puoi costruire più <b>Data Harvesters</b> per produrre più Datoid,  fai solo attenzione a non scalare troppo rapidamente, o potresti esaurire le risorse.<br><br>Sbloccare ricerche più avanzate richiederà nuovi tipi di Datoidi che saranno più difficili da produrre e richiederanno nuovi dispositivi e materiali.",,{0} is a tech name
@@ -4885,16 +4885,16 @@ distance.to,Distanza: {0},,
 tut.winch.title,Spostamento di sezioni navali,,
 tut.winch.desc,"Questo tutorial ti insegnerà come utilizzare {0}, {1} e {2} per spostare le sezioni della nave sulla mappa.",,{0}{1}{2} are device names
 tut.winch.intro,"A volte ti troverai in una situazione in cui hai due o più <b>Sezioni</b> (pezzi) disconnessi della nave.<br><br>Puoi unire le sezioni costruendo un ponte tra di loro, oppure puoi invece spostare le sezioni.<br><br>Questo tutorial ti mostrerà come utilizzare dispositivi specializzati per spostare le sezioni della nave.",,
-tut.winch.end,"Ora sai tutto sullo spostamento della nave <b>Sezioni< / b> in giro. Ecco un riassunto:<br><br> - Usa <b>Winch Hook</b> e <b>Winch Anchor</b> a <b>Reel In</b> una sezione più piccola verso una più grande.<br> - Una piccola zona di pavimento non è considerata una sezione e non può essere avvolta in.<br> - I dispositivi collegati nello spazio possono impedire a una sezione di spostare tutto la strada. Se ciò accade, <b>Riposiziona ostacoli</b> e riprova.<br> - Puoi costruire un ponte di estensione <b>temporaneo</b> per avvolgere una sezione troppo lontana.<br> - Puoi spostare una sezione per raccogliere <b>Risorse</b> sparse nello spazio.<br> - Utilizzare <b>Maneuvering Controllers</b> per guidare una sezione o l'intera nave con alta precisione. Può aiutarti a evitare impatti di <b>asteroidi< / b>.",,
+tut.winch.end,"Ora sai tutto sullo spostamento della nave <b>Sezioni</b> in giro. Ecco un riassunto:<br><br> - Usa <b>Winch Hook</b> e <b>Winch Anchor</b> a <b>Reel In</b> una sezione più piccola verso una più grande.<br> - Una piccola zona di pavimento non è considerata una sezione e non può essere avvolta in.<br> - I dispositivi collegati nello spazio possono impedire a una sezione di spostare tutto la strada. Se ciò accade, <b>Riposiziona ostacoli</b> e riprova.<br> - Puoi costruire un ponte di estensione <b>temporaneo</b> per avvolgere una sezione troppo lontana.<br> - Puoi spostare una sezione per raccogliere <b>Risorse</b> sparse nello spazio.<br> - Utilizzare <b>Maneuvering Controllers</b> per guidare una sezione o l'intera nave con alta precisione. Può aiutarti a evitare impatti di <b>asteroidi</b>.",,
 tut.winch.step1_1,Iniziamo trascinando una <b>Sezione</b> con il numero <b>1</b> scritto sopra verso la sezione con un <b>Computer di spedizione</b>. Utilizzeremo un <b>gancio per verricello</b> e un <b>ancoraggio per verricello</b>.,,
 tut.winch.step1_2,Il <b>Winch Hook</b> ha un pulsante <b>Reel In</b> nella sezione <b>Management</b> del pannello <b>Info</b>. Conterrà un elenco di ancore <b>Winch Anchors</b> disponibili che potremmo avvolgere. Apriamo quella lista.,,
-tut.winch.step1_3,Facendo clic sul pulsante <b>Reel In</b> accanto al <b>Winch Anchor</b> selezionato inizierà il processo. Bobina nell'ancora etichettata <b>{0}< / b> in questo momento.,,
+tut.winch.step1_3,Facendo clic sul pulsante <b>Reel In</b> accanto al <b>Winch Anchor</b> selezionato inizierà il processo. Bobina nell'ancora etichettata <b>{0}</b> in questo momento.,,
 tut.winch.step1_4,"Ora le due sezioni sono combinate in una sola. Tuttavia, scoprirai presto che le cose non vanno sempre così lisce.",,
 tut.winch.success,Verricello di successo,,
 tut.winch.step2_1,Proviamo ora a strizzare l'argano la sezione contrassegnata con il numero <b>2</b> appena sopra di noi.,,
 tut.winch.step2_2,L'operazione del verricello è stata interrotta perché un <b>Particle Collector</b> è di mezzo. Possiamo spostare l'ostacolo e riprovare.,,
 tut.winch.step2_4,Il <b>Particle Collector</b> non dovrebbe più impedire lo spostamento della sezione. Riproviamo la procedura del verricello.,,
-tut.winch.patch.1,C'è una piccola zona di pavimento con un <b>Winch Anchor< / b> nell'angolo in basso a destra dello schermo. Proviamo a riavvolgerlo.,,
+tut.winch.patch.1,C'è una piccola zona di pavimento con un <b>Winch Anchor</b> nell'angolo in basso a destra dello schermo. Proviamo a riavvolgerlo.,,
 tut.winch.patch.2,L'operazione del verricello non è riuscita perché la patch è troppo piccola per essere considerata una <b>Section</b>.<br><br>La sovrapposizione <b>{0}</b> fornirà un elenco di sezioni valide insieme alle relative dimensioni.<br><br>Il modo migliore per sbarazzarsi di quel piccolo pezzo di pavimento è decostruirlo.,,
 tut.winch.step3_1,"Finora, abbiamo solo argano sezioni più piccole. Vediamo cosa succede quando proviamo a arginare la sezione contrassegnata con il numero <b>3</b>, che è più grande di qualsiasi sezione che abbiamo argano prima.",,
 tut.winch.step3_2,"Questa volta la sezione con il <b>Ship Computer</b> si è spostata verso la sezione in cui stavamo annaspando.<br><br>La sezione più piccola si sposterà sempre verso quella più grande, mentre la sezione più grande rimarrà ferma.",,
@@ -4903,7 +4903,7 @@ tut.winch.step4.title,Verricello creativo,,
 tut.winch.step5.title,Verricello sezioni distanti,,
 tut.winch.step5_1,Che ne dici di una piccola sfida. C'è una sezione con il numero <b>5</b> in alto a sinistra dello schermo. È troppo lontano perché il nostro <b>Winch Hook</b> possa raggiungerlo.<br><br>Costruiremo un ponte temporaneo verso quella sezione e sposteremo il <b>Winch Hook</b> più vicino. ,,
 tut.winch.step5_2,"Per prima cosa, vediamo fino a che punto può arrivare un <b>Winch Hook</b>. Selezionate il gancio evidenziato.",,
-tut.winch.step5_2_2,Ora usa {0} per ridurre lo zoom fino a quando non vedi un grande <b>cerchio< / b> intorno al dispositivo selezionato. Questo cerchio mostra la portata del gancio.,,
+tut.winch.step5_2_2,Ora usa {0} per ridurre lo zoom fino a quando non vedi un grande <b>cerchio</b> intorno al dispositivo selezionato. Questo cerchio mostra la portata del gancio.,,
 tut.winch.step5_3,Ora abbiamo un'idea della lunghezza richiesta del ponte di estensione. Costruiamolo.,,
 tut.build.floor.in.area,Costruisci un <b>Floor</b> nell'area evidenziata.,,
 tut.winch.step5_4,Ora ordina di costruire un gancio <b>Winch</b> alla fine del ponte.,,
